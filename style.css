@@ -147,7 +147,7 @@ nav{
 
 #nav i{
   display: grid;
-  color: #1acc4f;
+  color: #dd801c;
   transition: all 0.5s;
 }
 
@@ -175,7 +175,7 @@ a {
 #nav li:hover span{
   text-decoration: underline;
   text-underline-offset: 10px;
-  text-decoration-color: #1ACC8D;
+  text-decoration-color: #dd801c;
   transform: scale(1.2);
 }
 
@@ -223,7 +223,7 @@ a {
 }
 
 #top .top-login:hover{
-  background-color: #1ACC8D;
+  background-color: #dd801c;
 }
 
 #top ul{
@@ -280,7 +280,7 @@ a {
 
 .hero-text h1 {
   color: white;
-  border-bottom: 4px solid rgb(26, 204, 141);
+  border-bottom: 4px solid #dd801c;
   display: flex;
   justify-content: center;
   margin: 0px 95px 10px 95px;
@@ -317,7 +317,7 @@ a {
 
 .hero-map-btn:hover {
   cursor: pointer;
-  background: #1ACC8D;
+  background: #dd801c;
   color: white;
   border: rgb(255, 255, 255);
 }
@@ -371,7 +371,7 @@ a {
 }
 
 #about .feature1:hover ,.feature2:hover ,.feature3:hover{
-  color: #1ACC8D;
+  color: #dd801c;
   transition: all 0.3s;
   transform: scale(1.1);
 }
@@ -401,7 +401,7 @@ a {
 }
 
 #about h4:hover{
-  color: #1ACC8D;
+  color: #dd801c;
 }
 
 #about p{
@@ -465,7 +465,7 @@ a {
   font-size: 16px;
   border-radius: 20px;
   background-color: #7a60ff;
-  border-bottom: 10px solid #1ACC8D;
+  border-bottom: 10px solid #dd801c;
   transition: all 0.5s;
 
 }
@@ -481,7 +481,7 @@ a {
   font-size: 16px;
   border-radius: 20px;
   background-color: #7a60ff;
-  border-bottom: 0px solid #1ACC8D;
+  border-bottom: 0px solid #dd801c;
   transform: scale(1.3);
 }
 
@@ -516,7 +516,7 @@ a {
 }
 
 #services h1{
-  border-bottom: 4px solid #1ACC8D;
+  border-bottom: 4px solid #dd801c;
   padding-bottom: 10px;
   display: none;
   justify-content: center;
@@ -762,7 +762,7 @@ a {
     top: 150px;
     width: 350px;
     height: 350px;
-    background: #1ACC8D;
+    background: #dd801c;
     z-index: 1;
     padding: 15px;
     display: flex;
@@ -972,7 +972,7 @@ a {
 {
     position: relative;
     cursor: pointer;
-    background: #095a55;
+    background: #f88204;
     border-radius: 20px;
     color: #fff;
     border: none;
@@ -984,7 +984,7 @@ a {
 }
 
 #Register .container .registerform .formBox .inputBox-b button:hover{
-    background: #0d9480;
+    background: #964f03;
 }
 
 
@@ -1004,7 +1004,7 @@ a {
   display: inline;
   text-align: center;
   font-size: 30px;
-  border-bottom: 4px solid #1ACC8D;
+  border-bottom: 4px solid #dd801c;
 }
 
 #login .form
@@ -1030,7 +1030,7 @@ a {
     top: 150px;
     width: 350px;
     height: 350px;
-    background: #1ACC8D;
+    background: #dd801c;
     z-index: 1;
     padding: 15px;
     display: flex;
@@ -1204,7 +1204,7 @@ a {
     font-size:  12px;
     font-weight: 400;
     letter-spacing: 1px;
-    color: #095a55;
+    color: #f88204;
     font-weight: 500;
 } 
 
@@ -1218,7 +1218,7 @@ a {
 {
     position: relative;
     cursor: pointer;
-    background: #095a55;
+    background: #f88204;
     border-radius: 20px;
     color: #fff;
     border: none;
@@ -1230,7 +1230,7 @@ a {
 }
 
 #login .container .loginform .formBox .inputBox-b button:hover{
-    background: #0d9480;
+    background: #b36008;
 }
 
 
@@ -1259,7 +1259,7 @@ a {
   display: inline;
   text-align: center;
   font-size: 30px;
-  border-bottom: 4px solid #1ACC8D;
+  border-bottom: 4px solid #dd801c;
 }
 
 #signup .form
@@ -1285,7 +1285,7 @@ a {
     top: 150px;
     width: 350px;
     height: 350px;
-    background: #1ACC8D;
+    background: #dd801c;
     z-index: 1;
     padding: 15px;
     display: flex;
@@ -1484,7 +1484,7 @@ a {
 }
 
 #signup .container .signupform .formBox .inputBox-b button:hover{
-    background: #0d9480;
+    background: #dd801c;
 }
 
 
@@ -1563,7 +1563,7 @@ a {
 }
 
 #team #teamtitle{
-  border-bottom: 4px solid #1ACC8D;
+  border-bottom: 4px solid #dc8527;
   padding-bottom: 10px;
   justify-content: center;
   text-align: center;
