@@ -1,17 +1,18 @@
 // Pop up Section
 
 const messages = [
-    "Electronic waste, or e-waste, refers to discarded electronic devices and equipment, including smartphones, laptops, tablets, televisions, and more. The generation of e-waste has been steadily increasing due to the rapid pace of technological advancement and consumer electronics turnover.",
+    "E-waste, the unwanted offspring of our gadget-obsessed world, encompasses discarded electronics like smartphones, laptops, tablets, and televisions. As tech evolves at lightning speed, our outdated devices pile up, creating a growing mountain of e-junk.",
 
-    "E-waste contains hazardous materials such as lead, mercury, cadmium, and various toxic chemicals. If not properly managed, these substances can leach into the environment, contaminating soil, water, and air. This poses significant risks to human health and the ecosystem.",
+    "Amongst the e-waste, hazardous materials lurk—lead, mercury, cadmium, and a cocktail of toxic chemicals. Improper disposal can turn these substances into environmental time bombs, seeping into the soil, tainting water supplies, and polluting the air, posing grave risks to our health and ecosystems.",
 
-    "Recycling e-waste helps recover valuable resources like precious metals (gold, silver, and palladium), copper, and rare earth elements. This reduces the need for mining and extraction of these materials, which can be both environmentally destructive and resource-intensive.",
+    "Recycling e-waste is a treasure hunt for valuable resources—gold, silver, palladium, copper, and rare earth elements. By reclaiming these materials, we cut down on the need for environmentally destructive mining and resource-intensive extraction.",
 
-    "E-waste has become a global issue, with millions of tons generated each year. Many developed countries export their e-waste to developing nations, where it is often processed informally under unsafe conditions, leading to environmental and health concerns.",
+    "The e-waste deluge is a global dilemma. With millions of tons generated annually, developed nations often ship their e-waste to developing countries, where it’s processed under dire conditions, endangering both the environment and human health.",
 
-    "Formal e-waste recycling involves regulated processes in specialized facilities that ensure safe handling and disposal of hazardous materials. Informal recycling, often practiced in developing countries, involves unregulated, makeshift operations that can be harmful to both workers and the environment."
-  ];
+    "Proper e-waste recycling is a regimented affair, carried out in specialized facilities that handle hazardous materials safely. In contrast, informal recycling—common in developing regions—often entails unsafe practices that jeopardize workers' health and the environment."
+];
 
+// Pop up Section
 const popup = document.getElementById('popup');
 const popupc = document.getElementById('popupc');
 const close = document.getElementById('close');
@@ -28,14 +29,14 @@ let currentMessageIndex = 0;
 
 function hidePopup() {
     popup.style.display = 'none';
-    setTimeout(showPopup, 5000);
+    setTimeout(showPopup, 50000);
 };
 
 setTimeout(showPopup, 3000);
 
-;
 
-// Pop up Section
+
+
 
 // About Section Counter
 document.addEventListener("DOMContentLoaded", function () {
